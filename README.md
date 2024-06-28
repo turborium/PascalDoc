@@ -1,6 +1,19 @@
 # PascalDoc
 Документация по языку Pascal и компиляторами FreePascal и Delphi
 
+# Lazarus 
+### Туториалы по Lazarus
+**Множество туториалов и учебников по использованию Lazarus**
+
+[Wiki страница](https://wiki.freepascal.org/Lazarus_Documentation/ru)
+
+### Free Pascal и Lazarus: Учебник по программированию 
+**Учебник по программированию на языке Free Pascal и IDE Lazarus.**
+
+[PDF версия книги, от 2017 года](https://github.com/turborium/PascalDoc/raw/main/docs/book_fpc_and_lazarus.pdf)
+
+[Оффициальная страница на сайте издетельства](https://www.altlinux.org/Books:FreePascal)
+
 # FreePascal
 
 ### Справочное руководство FreePascal
