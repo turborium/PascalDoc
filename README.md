@@ -1,6 +1,31 @@
 # PascalDoc
 Документация по языку Pascal и компиляторами FreePascal и Delphi
 
+# ObjectPascal
+### Modern Object Pascal Introduction for Programmers
+**Хороший туториал по современному ObjectPascal**
+
+Рассматривает диалект FreePascal, но имеет смысл для любой реализации языка Pascal.
+
+[Онлайн версия (EN)](https://castle-engine.io/modern_pascal)
+
+[Онлайн версия (RU)](https://castle-engine.io/modern_pascal_introduction_russian.html)
+
+[PDF версия (EN)](https://castle-engine.io/modern_pascal_introduction.pdf)
+
+# Delphi
+### ObjectPascal Handbook
+**Подробное руководство по языку ObjectPascal и среде Delphi**
+
+[PDF версия, от 2021 года (EN)](https://www.danysoft.com/estaticos/free/Libros%20en%20formato%20GRATUITO/ObjectPascalHandbook_AlexandriaVersion.pdf)
+
+[PDF версия, от 2021 года (RU), для загрузки необходимо заполнить форму](https://lp.embarcadero.com/RU-ObjectPascalEbook)
+
+### Многопоточное программирование в Delphi для начинающих
+**Руководство по созданию многопоточных приложений, подойдет и для Lazarus**
+
+[Онлайн версия](https://github.com/loginov-dmitry/multithread/blob/master/multithread_in_delphi_for_beginners.md)
+
 # Lazarus 
 ### Туториалы по Lazarus
 **Множество туториалов и учебников по использованию Lazarus**
@@ -10,7 +35,7 @@
 ### Free Pascal и Lazarus: Учебник по программированию 
 **Учебник по программированию на языке Free Pascal и IDE Lazarus.**
 
-[PDF версия книги, от 2017 года](https://github.com/turborium/PascalDoc/raw/main/docs/book_fpc_and_lazarus.pdf)
+[PDF версия книги, от 2010 года](https://github.com/turborium/PascalDoc/raw/main/docs/book_fpc_and_lazarus.pdf)
 
 [Оффициальная страница на сайте издетельства](https://www.altlinux.org/Books:FreePascal)
 
