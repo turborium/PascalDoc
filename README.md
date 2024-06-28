@@ -10,4 +10,4 @@
 
 [Онлайн версия 2, от 2015 года](http://www.lazarus-doc.h1n.ru/ref/index.html)
 
-[PDF версия руквоводства, от 2015 года](ref_ru.pdf)
+[PDF версия руквоводства, от 2015 года](docs/ref_ru.pdf)
