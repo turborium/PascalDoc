@@ -1,6 +1,27 @@
 # PascalDoc
 Документация по языку Pascal и компиляторами FreePascal и Delphi
 
+# Основные современные реализации Pascal
+[Delphi](https://www.embarcadero.com/products/delphi)  
+[Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) (Бесплатная Community версия)  
+*Разработка на ObjectPascal из под Windows RAD Studio IDE для Windows, OSX, Linux, iOS, Android*
+
+[Lazarus](https://www.lazarus-ide.org/)  
+[fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe) (Установщик упрощяющий кросскомпиляцию)  
+*Разработка на ObjectPascal из под Windows, OSX, Linux для различных систем, от Windows и до мк AVR*
+
+[PascalABC.net](https://pascalabc.net/)  
+*Учебная среда для ObjectPascal, множество туториалов, книг, примеров*
+
+[TRSE](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)  
+*Диалект Pascal и IDE для множества ретро платформ, таких как C64, NES, Gameboy...*
+
+[Mad Pascal Compiler](https://mads.atari8.info/doc/en/introduction/)  
+*Компилятор Pascal для систем на процессоре 6502, таких как Atari XE/XL, C64, C4Plus, Neo6502*
+
+[Oxygene](https://www.remobjects.com/elements/oxygene/)  
+*Исключительно коммерческая реализация ObjectPascal*  
+
 # ObjectPascal
 ### Modern Object Pascal Introduction for Programmers
 **Хороший туториал по современному ObjectPascal**
