@@ -53,6 +53,11 @@
 
 [Wiki страница](https://wiki.freepascal.org/Lazarus_Documentation/ru)
 
+### Введение в Lazarus и Pascal
+**Введение в программирование на Lazarus с нуля**
+
+[Онлайн версия](https://programm.top/pascal/tutorial/)
+
 ### Free Pascal и Lazarus: Учебник по программированию 
 **Учебник по программированию на языке Free Pascal и IDE Lazarus.**
 
