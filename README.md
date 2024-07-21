@@ -96,3 +96,9 @@
 **Документ описывает рантайм библиотеку FPC.**
 
 [Онлайн версия, от 2023 года](http://www.lazarus-doc.h1n.ru/RTL/index.html)
+
+# Прочее
+### P-source : a guide to the Apple Pascal System
+**В книге рассматривается устройство Apple Pascal System(Имплементация UCSD Pascal от Apple).**  
+UCSD Pascal это ОС включающая в себя компилятор Pascal + интерпритатор байткода, предвосхитившая создание Java/C# и других виртуальных машин.  
+[Онлайн версия, от 1983 года.](https://archive.org/details/Hyde_P-Source-A_Guide_to_the_APPLE_Pascal_System_1983/)
