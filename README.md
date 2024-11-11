@@ -97,6 +97,14 @@
 
 [Онлайн версия, от 2023 года](http://www.lazarus-doc.h1n.ru/RTL/index.html)
 
+# Embedded
+### AVRPascal
+**Arduino подобная IDE для AVR(Arduino) с использованием FPC**
+
+[Сайт](http://akarwowski.pl/index.php?page=electronics)  
+
+[Ветка на форуме](https://forum.lazarus.freepascal.org/index.php/topic,68795.0.html)
+
 # Прочее
 ### P-source : a guide to the Apple Pascal System
 **В книге рассматривается устройство Apple Pascal System(Имплементация UCSD Pascal от Apple).**  
