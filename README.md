@@ -116,4 +116,6 @@ UCSD Pascal это ОС включающая в себя компилятор Pa
 ### Алгоритмы и структуры данных (Вирт Н.)
 **В книге рассматривается база алгоритмов и структур данных, на примере языка Pasal/Modula2/Oberon(в зависимости от издания).**
 [Oberon-версия](https://free.oberon.org/files/Algoritmy_i_struktury_dannyh.pdf)
+### Интерактивный задачник по Delphi  
+[Ссылка, английский](https://exercism.org/tracks/delphi/exercises)
 
