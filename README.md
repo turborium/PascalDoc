@@ -123,7 +123,7 @@ UCSD Pascal это ОС включающая в себя компилятор Pa
 ### Статья в The Register, посвященная 30-летию Delphi
 [link](https://www.theregister.com/2025/02/19/delphi_turns_30/)  
 ### Clascal - первая ООП версия языка Паскаль из 1983 года  
-**Отчет Apple о ООП расширении языка Pascal, разработка совместно с Виртом, датировано 1983 годом.**  
+**Отчет Apple про ООП расширение языка Pascal, разработка совместно с Виртом, датировано 1983 годом.**  
 [CLASCAL REFERENCE MANUAL](https://bitsavers.org/pdf/apple/lisa/toolkit_university/Clascal_Reference_Manual_Mar83.pdf)  
 ### ObjectPascal - Заметка Apple про язык ObjectPascal из 1985 года  
 **Язык принял уже привычное название.**  
