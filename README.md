@@ -114,8 +114,17 @@ UCSD Pascal это ОС включающая в себя компилятор Pa
 Древняя реализация(90-е) языка Паскаль с множеством встроенных в язык примитивов параллелизма, таких как многопоточность, каналы и т.д...  
 [Сайт](https://www-users.york.ac.uk/~ab38/pf.html)
 ### Алгоритмы и структуры данных (Вирт Н.)
-**В книге рассматривается база алгоритмов и структур данных, на примере языка Pasal/Modula2/Oberon(в зависимости от издания).**
+**В книге рассматривается база алгоритмов и структур данных, на примере языка Pasal/Modula2/Oberon(в зависимости от издания).**  
 [Oberon-версия](https://free.oberon.org/files/Algoritmy_i_struktury_dannyh.pdf)
 ### Интерактивный задачник по Delphi  
 [Ссылка, английский](https://exercism.org/tracks/delphi/exercises)
 
+# История Object Pascal
+### Статья в The Register, посвященная 30-летию Delphi
+[link](https://www.theregister.com/2025/02/19/delphi_turns_30/)  
+### Clascal - первая ООП версия языка Паскаль из 1983 года  
+**Отчет Apple о ООП расширении языка Pascal, разработка совместно с Виртом, датировано 1983 годом.**  
+[CLASCAL REFERENCE MANUAL](https://bitsavers.org/pdf/apple/lisa/toolkit_university/Clascal_Reference_Manual_Mar83.pdf)  
+### ObjectPascal - Заметка Apple про язык ObjectPascal из 1985 года  
+**Язык принял уже привычное название.**  
+[Object Pascal](https://bitsavers.org/pdf/apple/mac/developer/MacApp/Object_Pascal_For_The_Macintosh_19850214.pdf)  
